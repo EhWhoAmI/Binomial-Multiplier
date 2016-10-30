@@ -1,6 +1,6 @@
 # Binomial-Multiplier
 
-This is my first major Java project (and my first repo[Please tell me if I got anything wrong]).
+This is my first major Java project (and my first repo [Please tell me if I got anything wrong] ).
 
 I was learning how to multiply binomials (you know, (x + 5)(x + 4), those kind of stuff) in school, and I thought: Why not create something to do this kind of stuff, and use it to do my homework? 
 
